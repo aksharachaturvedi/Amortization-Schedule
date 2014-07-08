@@ -13,9 +13,14 @@ Formula used to calculate the Fixed mortgage:
 
 P = L[c(1 + c)^n]/[(1 + c)^n - 1]
        P = Fixed monthly payment
-            n = months
-            c = monthly interest rate of (for 6% it is .06/12)
-            L = Original loan amount
+       n = months
+       c = monthly interest rate of (for 6% it is .06/12)
+       L = Original loan amount
+
+Class Diagram:
+
+![Alt text](/public/class-diagram.jpg "Class Diagram")
+
 
 
 Reference for calculation :           
